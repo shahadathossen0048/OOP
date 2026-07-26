@@ -1,0 +1,29 @@
+import java.io.*;
+import java.util.*;
+
+class Singleton {
+    
+    public String str;
+    
+    private static Singleton instance = new Singleton();
+    
+    private Singleton() {
+    }
+    
+    public static Singleton getSingleInstance() {
+        return instance;
+    }
+}
+
+public class Solution {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        if (sc.hasNextLine()) {
+            String input = sc.nextLine();
+            Singleton singleton = Singleton.getSingleInstance();
+            singleton.str = input;
+            System.out.println("Hello I am a singleton! Let me say " + singleton.str + " to you");
+        }
+        sc.close();
+    }
+}

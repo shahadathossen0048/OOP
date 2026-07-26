@@ -1,0 +1,14 @@
+Name:Shahadat Hossen
+Id:251-15-048
+
+Problem 1:Salary
+Link:https://judge.beecrowd.com/en/runs/code/49543710
+
+Problem 2:Java Static Initializer Block
+Link:https://www.hackerrank.com/challenges/java-static-initializer-block/submissions/code/478176345
+
+Problem 3: Java Instanceof keyword
+Link:https://www.hackerrank.com/challenges/java-instanceof-keyword/submissions/code/478177256
+
+Problem 4:Java Singleton Pattern
+Link:https://www.hackerrank.com/challenges/java-singleton/submissions/code/478177946
