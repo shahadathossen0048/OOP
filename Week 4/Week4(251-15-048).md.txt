@@ -1,0 +1,12 @@
+Name:Shahadat Hossen
+Id:251-15-048
+
+Problem 1:Java Inheritance
+Link:https://www.hackerrank.com/challenges/java-inheritance-1/problem
+
+Problem 2:Java Inheritance II
+Link:https://www.hackerrank.com/challenges/java-inheritance-2/submissions/code/478180018
+
+Problem 3:Inheritance
+Link:
+
