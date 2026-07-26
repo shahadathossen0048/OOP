@@ -1,0 +1,11 @@
+Name:Shahadat Hossen
+Id:251-15-048
+
+Problem 1:Java Method Overriding
+Link:https://www.hackerrank.com/challenges/java-method-overriding/submissions/code/478197733
+
+Problem 2:Java Method Overriding 2 (Super Keyword)
+Link:https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword/submissions/code/478198041
+
+Problem 3: Java Method Overriding
+Link:https://www.hackerrank.com/challenges/java-covariance/submissions/code/478198906
