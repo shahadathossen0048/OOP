@@ -1,0 +1,35 @@
+import java.util.Scanner;
+
+class Singleton {
+    // Static reference to the single instance
+    private static Singleton instance;
+    
+    // Public String instance variable
+    public String message;
+    
+    // Private non-parameterized constructor
+    private Singleton() {
+    }
+    
+    // Static method to return the single instance
+    public static Singleton getSingleInstance() {
+        if (instance == null) {
+            instance = new Singleton();
+        }
+        return instance;
+    }
+}
+
+public class Solution {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        String s = scan.nextLine();
+        
+        Singleton singleton = Singleton.getSingleInstance();
+        singleton.message = s;
+        
+        System.out.println("Hello I am a singleton! Let me say " + singleton.message + " to you");
+        
+        scan.close();
+    }
+}

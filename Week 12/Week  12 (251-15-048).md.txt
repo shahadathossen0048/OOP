@@ -1,0 +1,12 @@
+Name:Shahadat Hossen
+Id:251-15-048
+
+Problem 1:Java Singleton Pattern
+Link:https://www.hackerrank.com/challenges/java-singleton/problem
+
+Problem 2:Java Comparator
+Link:https://www.hackerrank.com/challenges/java-comparator/problem
+
+Problem 3: 
+Link:
+

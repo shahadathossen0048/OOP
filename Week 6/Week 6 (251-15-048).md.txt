@@ -1,0 +1,11 @@
+Name:Shahadat Hossen
+Id:251-15-048
+
+Problem 1:Java Abstract Class
+Link:https:https://www.hackerrank.com/challenges/java-abstract-class/problem
+
+Problem 2:Java Interface
+Link:https:https://www.hackerrank.com/challenges/java-interface/submissions/code/479615518
+
+Problem 3: Abstract Classes
+Link:https://www.hackerrank.com/challenges/30-abstract-classes/problem
